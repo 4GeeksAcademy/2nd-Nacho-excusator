@@ -1,0 +1,12 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body{
+    background: white;
+}
+
+#excusa {
+    font-size: 30pt;
+    text-align: center;
+    margin-top: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
